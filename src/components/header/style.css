@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    background-color: blue;
+}
+
+.logo {
+    width: 50px;
+    height: 100%;
+    background-color: red;
+}
+
+.itemContent {
+    display: flex;
+    justify-content: space-between;
+}
